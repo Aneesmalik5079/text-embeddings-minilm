@@ -13,20 +13,17 @@ Install directly from GitHub:
 ```bash
 pip install git+https://github.com/Aneesmalik5079/text-embeddings-minilm.git
 
-
 ## Usage
-
-```python
 from text_embeddings_minilm import get_embedding
 
 embedding = get_embedding("Convert this text into embeddings")
 print(len(embedding))  # 384
-```
 
 ## Model Details
 
 - Model name: all-MiniLM-L6-v2
 - Embedding dimension: 384
+- Source: Hugging Face (sentence-transformers)
 
 ## License
 
