@@ -11,8 +11,8 @@ vector that can be used for semantic search, similarity, clustering, or ML tasks
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/<your-username>/text-embeddings-minilm.git
-```
+pip install git+https://github.com/Aneesmalik5079/text-embeddings-minilm.git
+
 
 ## Usage
 
